@@ -1,0 +1,199 @@
+body {
+    position: absolute;
+    display: block;
+    margin: 0;
+    width: 100%;
+    height: 2000px;
+    background-color: #8cb8ac;
+}
+
+header {
+    position: relative;
+    display: flex;
+    margin: 0 auto 0 auto;
+    width: 1024px;
+    height: 5%;
+    /* background-color: black; */
+}
+
+main {
+    position: relative;
+    display: block;
+    margin: 0 auto 0 auto;
+    width: 1024px;
+    height: 90%;
+    /* background-color: #fff; */
+}
+
+p {
+    font-family: 'Big Shoulders Text', cursive;
+    font-size: 20px;
+}
+
+h2{
+    font-family: 'Big Shoulders Text', cursive;
+}
+
+footer {
+    position: relative;
+    display: block;
+    margin: 0 auto 0 auto;
+    width: 1024px;
+    height: 5%;
+    background-color:#e3e39d;
+}
+
+.text {
+    position: relative;
+    width: 400px;
+    height: 100%;
+    background-color:#e3e39d;
+}
+
+h1 {
+    position: relative;
+    top: 15px;
+    text-align: center;
+    font-family: 'Big Shoulders Text', cursive;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+}
+
+.cvbox {
+    position: relative;
+    width: 624px;
+    height: 100%;
+    background-color:#e3e39d;
+}
+
+.cv {
+    position: relative;
+    top: 15px;
+    text-align: center;
+}
+
+.upline {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 400px;
+}
+
+.photo {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background-color: #87bdde;
+}
+
+.personalphoto {
+    position: relative;
+    top: 75px;
+    left: 75px;
+    height: 250px;
+    width: 250px;
+    border-radius: 100px;
+}
+
+.firstandsecond {
+    position: relative;
+    width: 624px;
+    height: 400px;
+    background-color: #87bdde;
+}
+
+.aboutme {
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+
+.summary {
+    margin: 0 10px 0 10px;
+    line-height: 1.5;
+}
+
+.lang  {
+    margin-top: 5px;
+    font-family: 'Big Shoulders Text', cursive;
+    font-size: 19px;
+}
+
+.fiveeight {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 1400px;
+    background-color: #87bdde;
+}
+
+.exp {
+    position: relative;
+    left: 20px;
+}
+
+.expinfo {
+    margin: 0 10px 0 10px;
+    line-height: 1.5;
+}
+
+.education {
+    position: relative;
+    left: 20px;
+}
+
+.educationinfo {
+    margin: 0 10px 0 10px;
+    line-height: 1.5;
+}
+
+.eng {
+    position: relative;
+    left: 20px;
+}
+
+.enginfo {
+    margin: 0 10px 0 10px;
+    line-height: 1.5;
+}
+
+.contacts {
+    position: relative;
+    left: 20px;
+    margin-bottom: 0;
+}
+
+.contactslist {
+    list-style: decimal;
+}
+
+.contactslist li {
+    margin-bottom: 10px;
+    font-family: 'Big Shoulders Text', cursive;
+    font-size: 20px;
+}
+
+.codeexamples {
+    position: relative;
+    left: 20px;
+    margin-bottom: 0;
+}
+
+.description {
+    margin: 10px 0 30px 10px;
+}
+
+.galleryfirst {
+    position: relative;
+    left: 112px;
+    width: 800px;
+}
+
+.foot {
+    position: relative;
+    left: 50px;
+    top: 45px;
+    margin: 0;
+}
